@@ -1,0 +1,7 @@
+Projetos GO para cobrir os seguintes tópicos:
+-gRPC
+- Restfull API
+- Unit and Integration Tests, Integration Protocols
+- Implement security best practices to safeguard information and system resources.
+- code review processes.
+- software architecture principles.
