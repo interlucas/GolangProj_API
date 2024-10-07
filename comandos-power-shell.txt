@@ -1,0 +1,3 @@
+Comando pra criar arquivos em PowerShell(https://learn.microsoft.com/pt-br/powershell/scripting/samples/working-with-files-and-folders?view=powershell-7.4):
+New-Item -Path 'C:\Users\Lara\OneDrive\Área de Trabalho\go-projects\Proj3_GO_API\src\controller\routes\routes.go' -ItemType File
+New-Item -Pathe 'caminho-onde-será-criado-o-arquivo'-ItemType File
